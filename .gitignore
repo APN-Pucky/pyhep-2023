@@ -1,4 +1,5 @@
 venv
 tmp*
 output.dat
+output.out
 qgraf.dat

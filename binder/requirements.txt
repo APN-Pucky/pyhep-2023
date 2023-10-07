@@ -1,5 +1,5 @@
-feynml[interfaces]~=0.2.13
-pyfeyn2~=2.3.6 
-feynamp~=0.0.1
-ufo_draw~=0.0.1
-feynmodel~=0.0.4
+feynml[interfaces]=0.2.16
+pyfeyn2=2.3.7 
+feynamp=0.0.1
+ufo_draw=0.0.1
+feynmodel=0.0.4

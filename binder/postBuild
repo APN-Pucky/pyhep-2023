@@ -1,0 +1,9 @@
+echo "Install FORM"
+wget https://github.com/vermaseren/form/releases/download/v4.3.1/form-4.3.1-x86_64-linux.tar.gz
+tar -xzf form-4.3.1-x86_64-linux.tar.gz
+export PATH=$PATH:$PWD/form-4.3.1-x86_64-linux/
+
+echo "Install qgraf"
+wget http://anonymous:anonymous@qgraf.tecnico.ulisboa.pt/v3.6/qgraf-3.6.6.tgz
+tar -xzf qgraf-3.6.6.tgz
+gfortran -o qgraf qgraf-3.6.6/qgraf.f08 

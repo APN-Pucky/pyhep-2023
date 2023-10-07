@@ -14,3 +14,5 @@ python3-pygments
 graphviz
 cmake
 wget
+gfortran
+build-essential

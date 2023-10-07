@@ -1,1 +1,4 @@
 venv
+tmp*
+output.dat
+qgraf.dat

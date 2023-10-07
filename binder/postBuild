@@ -5,9 +5,9 @@ export PATH=$PATH:$PWD/form-4.3.1-x86_64-linux/
 
 echo "Install qgraf"
 mkdir qgraf
-pushd qgraf
+cd qgraf
 wget http://anonymous:anonymous@qgraf.tecnico.ulisboa.pt/v3.6/qgraf-3.6.6.tgz
 tar -xzf qgraf-3.6.6.tgz
 gfortran -o qgraf qgraf-3.6.6.f08 
 export PATH=$PATH:$PWD
-popd
+cd ..

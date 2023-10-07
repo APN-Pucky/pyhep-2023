@@ -3,7 +3,7 @@
 
 [![Binder](https://binderhub.ssl-hep.org/badge_logo.svg)](https://binderhub.ssl-hep.org/v2/gh/APN-Pucky/pyhep-2023/HEAD)
 
-This repository contains the material for the [PyHEP 2023](https://indico.cern.ch/event/1252095/timetable/#2-feynman-diagrams-in-python-r) workshop.
+This repository contains the material for the [PyHEP 2023](https://indico.cern.ch/event/1252095/timetable/#2-feynman-diagrams-in-python-r) workshop. The abstract is given below.
 
 
 ## Feynman diagrams in python: Revamping feynml and pyfeyn¶ 30m

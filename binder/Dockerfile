@@ -1,4 +1,4 @@
-FROM apnpucky/ubuntu-python-latexmk
+FROM apnpucky/ubuntu-python-latexmk:20221205092215
 RUN apt-get install gfortran
 RUN echo "Install FORM"
 RUN wget https://github.com/vermaseren/form/releases/download/v4.3.1/form-4.3.1-x86_64-linux.tar.gz

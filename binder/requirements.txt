@@ -1,5 +1,5 @@
 feynml[interfaces]==0.2.17
 pyfeyn2==2.3.7 
 feynamp==0.0.3
-ufo_draw==0.0.1.19
+ufo_draw==0.0.4
 feynmodel==0.0.4

@@ -2,7 +2,7 @@ name: 'Trigger-Binder-build'
 on:
   push:
     branches:
-      - <binder-branch>
+      - master
 
 jobs:
   trigger-binder-build:

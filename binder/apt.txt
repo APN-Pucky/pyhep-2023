@@ -1,10 +1,10 @@
 latexmk
+texlive-full
 texlive-formats-extra
 texlive-fonts-extra
 texlive-science
 texlive-latex-extra
 texlive-metapost
-texlive-generic-recommended
 graphviz
 cmake
 wget

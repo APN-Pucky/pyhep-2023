@@ -4,8 +4,6 @@ texlive-fonts-extra
 texlive-science
 texlive-latex-extra
 texlive-metapost
-aspell
-aspell-en
 graphviz
 cmake
 wget

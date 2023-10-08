@@ -11,3 +11,6 @@ tar -xzf qgraf-3.6.6.tgz
 gfortran -o qgraf qgraf-3.6.6.f08 
 export PATH=$PATH:$PWD
 cd ..
+
+echo "Fix ImageMagick permissions"
+sed -i 's/<policy domain="coder" rights="none" pattern="PDF" \/>/<policy domain="coder" rights="read|write" pattern="PDF" \/>/g' /etc/ImageMagick-**/policy.xml
